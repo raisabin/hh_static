@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 78ca071f0fbc2b85cde0d38c019b7e3ac4430e4b sabin <anokpe.srai@gmail.com> 1490269968 +0545	clone: from git@github.com:raisabin/hh_static.git
+78ca071f0fbc2b85cde0d38c019b7e3ac4430e4b c7bd32c6905d17c90a51854b1b56b4829dc98b1a sabin <anokpe.srai@gmail.com> 1490270114 +0545	commit: add .travis and s3_website
+c7bd32c6905d17c90a51854b1b56b4829dc98b1a 169d8153ff6673f4d15324a87bb3158b95f858a5 sabin <anokpe.srai@gmail.com> 1490270484 +0545	commit: add .travis and s3_website
+169d8153ff6673f4d15324a87bb3158b95f858a5 b98883dd5d0bf50cc5dd67de61cab4d3001fce30 sabin <anokpe.srai@gmail.com> 1490331690 +0545	pull origin master: Fast-forward
